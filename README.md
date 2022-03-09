@@ -1,7 +1,7 @@
 # API_FILMES
 
 ## Como funciona?
-  Com o auxilio da API fornecida pelo site da TMDB é possível ter acesso a um robusto acervo de filmes e series. Dessa forma, a API_FILMES traz como página inicial os filmes mais populares assistidos neste site, as notas dadas a eles e a descrição do filme. Caso o filme desejado não esteja entre esses, a lupa localizada no canto superior esquerdo permite a navegação entre os filmes a partir do nome digitado.
+  Com o auxilio da API fornecida pelo site da TMDB é possível ter acesso a um robusto acervo de filmes e series. Dessa forma, a API_FILMES traz como página inicial os filmes mais populares assistidos neste site, as notas dadas a eles e a descrição do filme. Caso o filme desejado não esteja entre esses, a caixa de texto localizada no canto superior direito permite a navegação entre os filmes a partir do nome digitado.
   
   
  ## Tecnologias usadas
